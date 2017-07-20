@@ -8,5 +8,4 @@ is a game with one player and many bugs, player should move to eat (Gem_Blue) an
 Installation and run
 ================================
 
-Install download files from folder [ArcadeGame](https://github.com/ModhiSaleh/GameA) .
-To run game click on [index.html](https://github.com/ModhiSaleh/GameA/blob/master/index.html) file inside the (GameA) folder.
+Install and download the project, Then to run game click on [index.html](https://github.com/ModhiSaleh/GameA/blob/master/index.html) file.
